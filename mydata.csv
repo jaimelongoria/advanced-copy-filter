@@ -1,0 +1,952 @@
+boro,precinct,statistical_murder_flag,vic_age_group,vic_sex,vic_race
+The Bronx,47,No,25-44,Male,Black
+Manhattan,6,Yes,45-64,Male,White
+Brooklyn,77,No,18-24,Male,Black
+Queens,114,No,25-44,Male,Black
+Brooklyn,75,No,25-44,Male,Black
+Brooklyn,69,No,18-24,Male,Unknown
+Queens,113,No,45-64,Male,Black
+The Bronx,42,Yes,25-44,Male,Black
+The Bronx,40,No,18-24,Male,White Hispanic
+The Bronx,40,No,45-64,Male,Black
+Manhattan,25,No,25-44,Male,White Hispanic
+Queens,103,No,45-64,Male,Black
+Manhattan,23,No,18 And Under,Male,Black
+Brooklyn,81,No,25-44,Male,Black
+The Bronx,48,No,18-24,Female,White Hispanic
+Manhattan,25,No,18 And Under,Male,Black
+The Bronx,48,No,18-24,Male,Black Hispanic
+The Bronx,47,No,25-44,Male,Black
+Brooklyn,73,No,25-44,Male,Black
+Brooklyn,81,No,25-44,Male,Black
+Brooklyn,81,No,45-64,Male,Black
+The Bronx,50,No,25-44,Male,Black
+The Bronx,42,Yes,25-44,Male,Black
+The Bronx,44,No,25-44,Male,White Hispanic
+The Bronx,43,Yes,18-24,Male,Black
+The Bronx,42,No,25-44,Male,Black
+Brooklyn,81,Yes,18-24,Male,Black
+Brooklyn,67,No,18-24,Male,Black
+Queens,101,Yes,18-24,Male,White Hispanic
+Queens,101,Yes,18-24,Male,White Hispanic
+Queens,101,Yes,18-24,Male,White Hispanic
+Brooklyn,90,No,25-44,Male,Black
+Manhattan,26,No,18-24,Male,White Hispanic
+The Bronx,46,No,25-44,Male,Black Hispanic
+The Bronx,46,Yes,25-44,Male,Black Hispanic
+Queens,105,No,25-44,Male,Black
+The Bronx,42,No,25-44,Female,Black Hispanic
+The Bronx,44,Yes,18-24,Male,White Hispanic
+The Bronx,42,No,25-44,Male,Black
+The Bronx,47,No,25-44,Male,Black
+Staten Island,120,Yes,25-44,Male,Black
+Staten Island,120,Yes,25-44,Male,Black
+The Bronx,44,No,25-44,Male,Black
+Brooklyn,73,No,18 And Under,Male,Black
+Brooklyn,62,Yes,18-24,Male,White
+Queens,105,No,25-44,Male,Black
+Brooklyn,69,No,Unknown,Unkown,Unknown
+Brooklyn,69,No,Unknown,Unkown,Unknown
+Queens,102,No,18-24,Female,Black
+Queens,102,No,25-44,Female,Black
+Queens,102,No,25-44,Female,White Hispanic
+Queens,102,No,25-44,Male,Black
+Staten Island,120,No,25-44,Male,Black
+Staten Island,120,No,25-44,Male,Black
+Staten Island,120,No,25-44,Male,Black
+Brooklyn,90,No,25-44,Male,Black
+The Bronx,48,No,18-24,Male,Black Hispanic
+Brooklyn,71,No,18 And Under,Male,Black
+The Bronx,52,No,18 And Under,Female,White Hispanic
+Brooklyn,73,No,25-44,Male,Black
+Brooklyn,67,No,18-24,Male,Black
+Brooklyn,79,Yes,25-44,Male,Black
+Brooklyn,81,No,18-24,Male,Black
+Brooklyn,81,No,18-24,Male,Black
+Brooklyn,81,Yes,18-24,Male,Black
+Manhattan,34,No,18-24,Male,Black Hispanic
+Staten Island,120,No,18-24,Male,Black
+Brooklyn,70,No,18-24,Male,Black
+Manhattan,33,No,18-24,Male,White Hispanic
+The Bronx,49,No,25-44,Male,Black
+Brooklyn,73,No,25-44,Male,Black
+Manhattan,25,No,18-24,Male,Black
+Brooklyn,88,No,25-44,Male,Black
+Queens,110,No,25-44,Male,Black
+Brooklyn,79,No,25-44,Male,Black
+The Bronx,43,No,18 And Under,Female,Black
+Brooklyn,71,No,18-24,Male,Black
+Brooklyn,73,No,25-44,Male,Black
+The Bronx,42,No,45-64,Male,Black
+Brooklyn,75,No,18-24,Male,White Hispanic
+Queens,108,No,45-64,Male,Black Hispanic
+Queens,108,No,45-64,Male,Black Hispanic
+Brooklyn,73,No,25-44,Female,Black
+Brooklyn,83,No,45-64,Male,White Hispanic
+Brooklyn,73,No,25-44,Male,White
+The Bronx,44,Yes,45-64,Female,Black Hispanic
+Brooklyn,70,No,25-44,Female,Black
+Brooklyn,70,No,25-44,Male,Black
+The Bronx,44,No,25-44,Male,Black
+The Bronx,44,No,25-44,Male,White Hispanic
+The Bronx,44,Yes,25-44,Male,Black
+The Bronx,44,Yes,25-44,Male,White Hispanic
+The Bronx,44,No,25-44,Male,Black
+The Bronx,44,No,25-44,Male,White Hispanic
+The Bronx,44,Yes,25-44,Male,Black
+The Bronx,44,Yes,25-44,Male,White Hispanic
+Brooklyn,73,No,18 And Under,Male,Black
+Brooklyn,70,No,18-24,Male,White Hispanic
+Brooklyn,70,No,18-24,Male,White Hispanic
+Brooklyn,69,No,18-24,Male,Asian or Pacific Islander
+The Bronx,47,No,18-24,Male,Black
+The Bronx,47,No,18-24,Male,Black
+The Bronx,47,No,18-24,Male,Black
+The Bronx,42,No,25-44,Male,Black
+Queens,114,No,25-44,Male,Unknown
+Queens,114,No,25-44,Male,Unknown
+Brooklyn,75,No,18-24,Male,Black
+Brooklyn,73,No,18-24,Male,Black
+The Bronx,52,No,25-44,Male,White Hispanic
+Manhattan,30,No,45-64,Male,Black
+The Bronx,44,No,25-44,Male,Black
+Brooklyn,81,No,25-44,Male,Black
+Brooklyn,79,Yes,25-44,Male,Black
+The Bronx,44,No,18 And Under,Male,Black
+Brooklyn,71,No,45-64,Male,Black
+Manhattan,32,No,25-44,Male,Black
+Brooklyn,77,No,18-24,Male,Black
+The Bronx,47,No,25-44,Male,White Hispanic
+Brooklyn,83,Yes,45-64,Female,Black Hispanic
+The Bronx,43,No,25-44,Male,Black
+The Bronx,43,No,25-44,Male,Black
+The Bronx,44,No,25-44,Male,Black
+Manhattan,28,No,25-44,Male,Black
+Brooklyn,73,No,25-44,Male,Black
+Brooklyn,77,No,25-44,Male,Black
+Queens,109,Yes,25-44,Male,White Hispanic
+Queens,114,No,18-24,Male,White Hispanic
+Manhattan,34,No,18-24,Male,White Hispanic
+The Bronx,47,No,18-24,Male,Black
+The Bronx,42,No,25-44,Male,Black
+Manhattan,25,No,25-44,Male,Black
+Brooklyn,75,No,45-64,Male,White
+Queens,103,Yes,18-24,Male,Black
+The Bronx,41,No,25-44,Male,Black
+Brooklyn,69,Yes,25-44,Male,Black Hispanic
+Brooklyn,69,Yes,25-44,Male,Black Hispanic
+Brooklyn,70,No,25-44,Female,Asian or Pacific Islander
+Brooklyn,77,Yes,25-44,Male,Black
+Brooklyn,88,No,25-44,Male,Black Hispanic
+Manhattan,34,No,25-44,Male,White Hispanic
+Manhattan,33,No,18-24,Male,White Hispanic
+Manhattan,33,No,18 And Under,Female,Black Hispanic
+The Bronx,40,No,25-44,Female,Black Hispanic
+Brooklyn,70,No,18 And Under,Male,Black
+Queens,103,No,25-44,Male,Black
+Manhattan,23,No,18-24,Male,White Hispanic
+Brooklyn,70,No,18 And Under,Male,Black
+The Bronx,40,No,25-44,Male,White Hispanic
+Brooklyn,61,No,18-24,Female,White
+The Bronx,44,No,45-64,Male,Black Hispanic
+Brooklyn,73,No,18-24,Male,Black
+Brooklyn,73,No,25-44,Male,Black
+Brooklyn,77,No,18-24,Male,Black
+The Bronx,40,No,25-44,Male,Black
+The Bronx,47,No,25-44,Male,Black
+The Bronx,50,No,18-24,Male,White Hispanic
+Staten Island,123,No,18-24,Male,Black
+Brooklyn,61,Yes,Over 65,Male,White
+Brooklyn,77,No,18-24,Male,Black
+The Bronx,52,No,25-44,Male,Black Hispanic
+Brooklyn,81,No,25-44,Male,Black
+Manhattan,25,No,18-24,Male,Black
+The Bronx,42,No,25-44,Male,Black
+The Bronx,42,Yes,25-44,Male,Black
+The Bronx,42,No,18 And Under,Male,Black
+The Bronx,42,Yes,18 And Under,Male,Black
+Brooklyn,71,No,25-44,Male,Black
+Manhattan,34,No,18 And Under,Male,White Hispanic
+Queens,103,No,18-24,Male,Black
+The Bronx,50,No,25-44,Male,White Hispanic
+Manhattan,34,No,18-24,Male,White Hispanic
+Manhattan,34,No,18-24,Male,White Hispanic
+Brooklyn,67,No,25-44,Male,Black
+The Bronx,43,No,18-24,Male,Black
+Brooklyn,61,No,18-24,Male,Black
+The Bronx,43,No,18-24,Female,Black
+The Bronx,43,No,18-24,Female,Black
+The Bronx,43,No,18-24,Female,Black
+The Bronx,43,No,18-24,Female,Black
+The Bronx,49,Yes,25-44,Male,Black
+The Bronx,48,No,25-44,Male,Black
+Brooklyn,75,No,18 And Under,Male,Black
+The Bronx,52,No,25-44,Male,Black
+Brooklyn,69,No,25-44,Male,Black
+The Bronx,44,No,18-24,Male,Black
+The Bronx,41,No,25-44,Male,White Hispanic
+The Bronx,40,No,45-64,Male,Black
+Queens,113,Yes,25-44,Male,Black
+The Bronx,47,No,18-24,Male,Black
+The Bronx,40,No,18-24,Male,Black
+Brooklyn,70,Yes,25-44,Male,Black
+Brooklyn,83,Yes,18-24,Female,White Hispanic
+The Bronx,48,No,18 And Under,Male,Black
+Queens,102,Yes,25-44,Male,Black
+The Bronx,46,No,45-64,Male,Black
+The Bronx,46,No,45-64,Male,Black
+Manhattan,26,No,25-44,Male,Black
+The Bronx,46,No,25-44,Male,Black
+The Bronx,40,No,25-44,Male,Black
+Brooklyn,76,Yes,25-44,Male,Black
+The Bronx,46,No,25-44,Male,Black
+The Bronx,46,No,18-24,Male,White Hispanic
+The Bronx,46,No,25-44,Male,White Hispanic
+Brooklyn,75,Yes,18-24,Female,Unknown
+Brooklyn,78,No,25-44,Male,White
+The Bronx,42,No,25-44,Male,Black
+The Bronx,47,No,25-44,Male,Black
+The Bronx,44,Yes,Over 65,Male,White
+Staten Island,120,No,25-44,Male,White
+Brooklyn,67,No,25-44,Male,Black
+Brooklyn,73,No,18-24,Male,Unknown
+Staten Island,120,No,25-44,Male,White
+The Bronx,48,No,18-24,Male,Black
+The Bronx,48,No,18-24,Male,Black
+The Bronx,48,No,18-24,Male,Black
+Brooklyn,81,No,25-44,Male,Black
+The Bronx,46,No,25-44,Male,Black
+Brooklyn,69,No,18-24,Male,Black
+The Bronx,47,No,25-44,Male,Black
+Brooklyn,84,No,18-24,Male,Black
+Brooklyn,84,No,18 And Under,Male,Black
+Manhattan,28,No,25-44,Male,Black Hispanic
+Queens,109,Yes,25-44,Male,Black
+Queens,109,Yes,25-44,Male,Black
+Queens,115,Yes,25-44,Male,Black
+Brooklyn,75,No,45-64,Female,White
+Brooklyn,67,No,18-24,Male,Black
+The Bronx,46,No,25-44,Male,Black
+Queens,113,No,25-44,Male,Black
+Brooklyn,67,No,18 And Under,Male,Black
+The Bronx,47,No,25-44,Male,Black
+The Bronx,41,No,18-24,Male,Black
+The Bronx,42,No,18-24,Male,Black Hispanic
+Queens,106,Yes,25-44,Male,Black
+Queens,113,Yes,25-44,Male,Black
+The Bronx,49,Yes,45-64,Male,Black
+Staten Island,121,No,25-44,Male,Black
+The Bronx,48,No,25-44,Female,Black
+The Bronx,48,No,25-44,Male,Black
+Brooklyn,83,No,18-24,Male,Black
+The Bronx,44,No,25-44,Male,Black
+Brooklyn,67,No,18-24,Female,Black
+Brooklyn,67,No,25-44,Female,Black
+The Bronx,40,No,45-64,Male,Asian or Pacific Islander
+Queens,114,No,18-24,Male,Black
+Brooklyn,73,Yes,18 And Under,Male,Black
+Queens,114,No,25-44,Female,White
+Queens,114,Yes,25-44,Female,White
+Queens,114,No,25-44,Male,Black
+Queens,114,Yes,25-44,Male,Black
+Brooklyn,81,No,18-24,Male,Black
+Manhattan,28,No,18-24,Male,Black
+Brooklyn,75,No,18-24,Male,Black Hispanic
+Manhattan,28,No,25-44,Female,Black
+The Bronx,44,No,18-24,Male,White Hispanic
+The Bronx,44,No,18-24,Male,White Hispanic
+Brooklyn,75,No,25-44,Male,Black
+The Bronx,40,No,18 And Under,Male,Black
+Manhattan,32,No,25-44,Male,Asian or Pacific Islander
+Brooklyn,94,No,25-44,Male,Black
+Brooklyn,73,No,18-24,Male,Black
+Brooklyn,76,Yes,25-44,Male,Black
+The Bronx,46,No,25-44,Male,Black
+Brooklyn,77,No,45-64,Female,White
+Brooklyn,73,No,25-44,Male,Black
+The Bronx,48,No,18-24,Male,Black
+The Bronx,50,No,18-24,Male,Black Hispanic
+Brooklyn,75,No,25-44,Male,Black
+Brooklyn,75,Yes,25-44,Male,Black Hispanic
+The Bronx,52,No,18-24,Male,Black
+The Bronx,52,No,18-24,Male,Black
+Brooklyn,73,No,18-24,Male,White Hispanic
+Queens,106,Yes,25-44,Male,Black
+Queens,105,Yes,25-44,Male,Black
+Brooklyn,90,No,18-24,Male,Black Hispanic
+Brooklyn,90,No,18-24,Male,Black Hispanic
+Brooklyn,77,No,18-24,Male,White Hispanic
+Brooklyn,73,No,25-44,Male,Black
+Brooklyn,67,No,45-64,Male,Black
+Brooklyn,67,Yes,25-44,Male,Black
+The Bronx,44,No,25-44,Male,Black
+Queens,105,No,18-24,Male,Black
+Brooklyn,78,No,45-64,Male,Black
+Queens,105,No,18-24,Male,Black
+The Bronx,46,No,25-44,Male,Black Hispanic
+The Bronx,46,No,18-24,Male,Black
+Brooklyn,63,No,25-44,Female,Black
+The Bronx,44,Yes,18-24,Male,Black
+Brooklyn,77,No,18-24,Male,Black
+Manhattan,34,No,25-44,Male,White Hispanic
+Brooklyn,79,Yes,25-44,Male,Black
+Brooklyn,79,Yes,45-64,Male,Black
+Manhattan,23,Yes,25-44,Male,Black
+The Bronx,40,No,18 And Under,Male,Black
+Brooklyn,67,No,18-24,Male,Black
+The Bronx,50,Yes,25-44,Male,Black
+Brooklyn,71,No,18-24,Male,Black
+Brooklyn,71,No,25-44,Male,Black
+Brooklyn,77,No,25-44,Male,Black
+Brooklyn,71,No,25-44,Female,Black
+Brooklyn,79,No,25-44,Male,Black
+Brooklyn,79,Yes,25-44,Male,Black
+Brooklyn,73,No,25-44,Male,Black
+Manhattan,34,No,18-24,Male,White Hispanic
+Manhattan,34,Yes,18-24,Male,White Hispanic
+Manhattan,13,No,25-44,Male,Black
+Manhattan,13,No,18 And Under,Female,Black
+Queens,101,Yes,18-24,Male,Black
+The Bronx,50,Yes,18-24,Male,White Hispanic
+Brooklyn,67,No,18-24,Male,Black
+Manhattan,30,Yes,25-44,Male,Black Hispanic
+Brooklyn,77,No,25-44,Male,Black
+Brooklyn,73,No,25-44,Male,Black
+Queens,114,Yes,25-44,Male,Black
+The Bronx,48,No,25-44,Male,White Hispanic
+Queens,103,No,25-44,Male,Black
+The Bronx,47,No,45-64,Male,Black
+The Bronx,44,No,25-44,Male,White Hispanic
+The Bronx,42,No,25-44,Male,Black
+Manhattan,23,No,18-24,Male,Black
+Manhattan,23,No,18-24,Male,White Hispanic
+Manhattan,23,Yes,18-24,Male,Black
+Manhattan,23,Yes,18-24,Male,White Hispanic
+Manhattan,23,No,25-44,Male,Black
+Manhattan,23,Yes,25-44,Male,Black
+The Bronx,43,No,18-24,Male,Black
+Manhattan,25,No,18-24,Male,Black
+Brooklyn,75,No,18-24,Male,Black
+Brooklyn,71,No,25-44,Male,Black
+Brooklyn,71,No,18 And Under,Male,Black
+The Bronx,42,No,25-44,Male,Black
+Brooklyn,79,No,25-44,Male,Black
+The Bronx,40,No,25-44,Male,Black
+The Bronx,44,No,25-44,Male,Black
+Brooklyn,73,No,18 And Under,Male,Black
+The Bronx,43,No,18-24,Male,White Hispanic
+Brooklyn,94,Yes,25-44,Male,Black
+Brooklyn,67,No,45-64,Male,Black
+Brooklyn,67,No,25-44,Male,Black
+Queens,101,Yes,25-44,Male,Black
+Brooklyn,75,No,18-24,Male,Black
+The Bronx,49,No,18-24,Female,Black
+The Bronx,49,Yes,18-24,Female,Black
+The Bronx,49,No,18-24,Male,Black
+The Bronx,49,Yes,18-24,Male,Black
+The Bronx,49,No,25-44,Male,Black
+The Bronx,49,Yes,25-44,Male,Black
+Queens,102,Yes,18-24,Male,Asian or Pacific Islander
+Queens,101,No,45-64,Male,White Hispanic
+The Bronx,42,No,25-44,Male,Black
+Brooklyn,73,No,18-24,Male,Black
+The Bronx,52,No,25-44,Male,Black
+Staten Island,120,No,25-44,Male,White Hispanic
+The Bronx,41,No,18-24,Male,White Hispanic
+Brooklyn,63,No,18 And Under,Male,Black
+Manhattan,23,No,18-24,Male,Black
+Manhattan,34,No,25-44,Male,Unknown
+Brooklyn,77,No,25-44,Male,Black
+Manhattan,33,No,18-24,Male,Black Hispanic
+Brooklyn,84,No,Over 65,Male,Black
+The Bronx,46,No,45-64,Male,Black
+Queens,103,No,25-44,Male,Black
+Brooklyn,83,No,25-44,Male,Black Hispanic
+Brooklyn,73,No,18-24,Male,Black
+Queens,103,No,45-64,Female,Black
+Brooklyn,67,No,18-24,Male,Black
+The Bronx,40,No,25-44,Male,Black Hispanic
+Manhattan,30,No,25-44,Male,White Hispanic
+Manhattan,30,No,25-44,Male,White Hispanic
+Staten Island,120,No,18-24,Male,Black
+The Bronx,42,No,18-24,Male,Black
+Staten Island,120,No,25-44,Male,Black
+Brooklyn,79,No,18-24,Male,Black
+The Bronx,44,No,18-24,Male,White Hispanic
+The Bronx,44,No,18 And Under,Male,White Hispanic
+Brooklyn,75,No,18 And Under,Male,Black
+Brooklyn,84,No,18-24,Male,Black
+Brooklyn,81,No,25-44,Male,Black
+Manhattan,24,No,18 And Under,Male,Black
+The Bronx,40,No,18-24,Male,White Hispanic
+Queens,101,No,18-24,Male,Black
+Queens,101,No,18 And Under,Male,Black
+Brooklyn,79,No,25-44,Male,Black
+Queens,114,No,18-24,Male,Black
+Brooklyn,79,No,18-24,Male,Black
+Brooklyn,79,No,18-24,Male,Black
+Brooklyn,81,No,25-44,Male,Black
+The Bronx,40,No,18-24,Male,White Hispanic
+The Bronx,41,No,25-44,Male,Black
+Staten Island,120,No,18-24,Male,Black
+The Bronx,44,No,25-44,Male,Black
+The Bronx,44,Yes,25-44,Male,White Hispanic
+The Bronx,44,No,25-44,Male,Black
+Brooklyn,79,No,25-44,Male,Black
+Brooklyn,71,No,25-44,Male,Black
+Queens,113,No,25-44,Male,Black
+Brooklyn,73,No,25-44,Male,Black
+The Bronx,46,No,25-44,Male,White Hispanic
+The Bronx,46,No,25-44,Male,White Hispanic
+The Bronx,52,Yes,25-44,Male,Black
+Queens,108,No,18-24,Male,Black
+Manhattan,23,No,18 And Under,Male,Black
+Manhattan,23,No,18 And Under,Male,Black Hispanic
+Queens,114,Yes,25-44,Female,White
+Queens,114,Yes,45-64,Female,White
+Queens,114,Yes,18 And Under,Male,White
+Brooklyn,81,No,25-44,Male,Black
+Queens,113,No,25-44,Male,Black
+The Bronx,47,No,18-24,Male,Black
+The Bronx,47,No,25-44,Female,Black
+Brooklyn,73,No,25-44,Male,Black
+Manhattan,26,Yes,18-24,Male,Black
+Queens,114,No,25-44,Male,Black
+Queens,114,No,25-44,Male,Black
+Queens,114,No,18-24,Male,Black
+Brooklyn,75,No,18 And Under,Male,Black
+Brooklyn,61,No,25-44,Male,Black
+Brooklyn,60,No,18-24,Male,Black
+The Bronx,44,No,18-24,Male,Black
+Queens,106,No,18-24,Male,Black
+Brooklyn,75,No,18-24,Male,Black
+Brooklyn,83,No,18-24,Male,Black Hispanic
+Brooklyn,83,No,18-24,Male,White Hispanic
+Brooklyn,83,Yes,18-24,Male,Black Hispanic
+Brooklyn,83,Yes,18-24,Male,White Hispanic
+The Bronx,44,No,45-64,Male,Black Hispanic
+Brooklyn,73,No,25-44,Male,Black
+Brooklyn,90,No,18-24,Male,Black
+Queens,113,No,25-44,Male,Black
+Manhattan,34,No,25-44,Male,White Hispanic
+Manhattan,28,No,18-24,Male,Black
+The Bronx,47,No,25-44,Male,Black
+Brooklyn,71,No,25-44,Male,Black
+Brooklyn,67,No,25-44,Male,Black
+The Bronx,49,No,18-24,Male,White Hispanic
+Queens,105,No,25-44,Male,Black
+Queens,114,No,25-44,Female,Black
+Queens,114,No,25-44,Male,Black
+Brooklyn,79,No,25-44,Male,Black
+Manhattan,28,No,18 And Under,Male,Black
+Brooklyn,88,No,18-24,Male,Black
+Queens,113,No,25-44,Male,Black
+Queens,106,No,25-44,Male,Black
+The Bronx,44,No,25-44,Male,White Hispanic
+The Bronx,44,No,25-44,Male,White Hispanic
+Manhattan,23,No,25-44,Male,Black
+Manhattan,23,No,25-44,Male,Black
+Manhattan,32,Yes,18-24,Male,Black
+Brooklyn,73,No,45-64,Male,Black
+Brooklyn,90,No,25-44,Male,Black
+Brooklyn,90,Yes,25-44,Male,Black
+Brooklyn,90,No,18 And Under,Male,Black
+Brooklyn,90,Yes,18 And Under,Male,Black
+Brooklyn,90,No,18 And Under,Male,Black
+Brooklyn,81,No,25-44,Female,Black Hispanic
+Queens,103,No,18-24,Male,Black
+The Bronx,44,No,18-24,Female,Black Hispanic
+The Bronx,44,No,25-44,Female,Black Hispanic
+The Bronx,44,No,25-44,Male,Black Hispanic
+Brooklyn,75,Yes,18 And Under,Male,Black
+Queens,105,Yes,25-44,Male,Black
+Manhattan,19,No,25-44,Male,Black
+The Bronx,50,Yes,45-64,Male,White Hispanic
+Brooklyn,79,No,25-44,Male,Black
+Brooklyn,84,No,25-44,Female,Black Hispanic
+Brooklyn,84,No,25-44,Male,Black
+Brooklyn,83,No,25-44,Male,Black
+Brooklyn,81,Yes,18 And Under,Male,Black
+The Bronx,45,No,25-44,Male,White
+Brooklyn,88,No,18-24,Male,White Hispanic
+Brooklyn,90,No,18-24,Male,Black
+Brooklyn,67,No,Over 65,Male,Black
+Staten Island,120,Yes,Over 65,Female,Black
+Staten Island,120,Yes,Over 65,Female,Black
+Brooklyn,67,Yes,25-44,Male,Black
+The Bronx,44,Yes,45-64,Male,Black
+The Bronx,40,No,18-24,Male,Black
+The Bronx,40,No,18-24,Male,White Hispanic
+Brooklyn,70,No,18-24,Male,Black
+The Bronx,47,No,25-44,Male,Black
+The Bronx,41,No,18-24,Male,White Hispanic
+The Bronx,44,No,25-44,Male,Black
+Brooklyn,88,No,25-44,Male,Black
+The Bronx,44,No,45-64,Male,Black
+Manhattan,33,No,25-44,Male,Black Hispanic
+Manhattan,33,No,25-44,Male,White Hispanic
+Brooklyn,79,No,Unknown,Male,Black Hispanic
+Manhattan,30,No,45-64,Male,Black
+Brooklyn,60,No,45-64,Male,White Hispanic
+Brooklyn,77,No,18-24,Male,Black
+Brooklyn,81,No,18-24,Male,Black
+Brooklyn,71,Yes,25-44,Male,Black
+Manhattan,32,No,25-44,Male,Black
+Brooklyn,67,No,18-24,Male,Black
+Queens,103,No,25-44,Female,Black
+Brooklyn,79,No,18 And Under,Female,Black
+Brooklyn,67,No,18-24,Male,Black
+Brooklyn,79,No,18-24,Female,Black
+Brooklyn,79,No,18-24,Male,Asian or Pacific Islander
+Brooklyn,79,No,25-44,Male,Black
+Queens,105,No,18-24,Male,Black
+Brooklyn,79,No,18-24,Male,Black
+Brooklyn,67,No,25-44,Male,Black
+Brooklyn,67,No,25-44,Male,Black
+Brooklyn,71,Yes,25-44,Male,Black Hispanic
+Brooklyn,73,No,18-24,Female,Black
+Brooklyn,73,No,18-24,Male,Black
+Queens,114,No,25-44,Male,Black
+Queens,113,No,25-44,Male,Black
+Brooklyn,79,No,25-44,Male,Black
+Brooklyn,75,No,25-44,Male,Black
+The Bronx,46,Yes,25-44,Male,White Hispanic
+Brooklyn,71,No,18-24,Male,Black
+Brooklyn,71,No,45-64,Female,Black
+Brooklyn,83,No,25-44,Male,Black
+Brooklyn,83,Yes,25-44,Male,Black
+Brooklyn,73,No,25-44,Male,Black Hispanic
+Brooklyn,75,No,18-24,Male,Black
+Queens,107,No,25-44,Male,Black
+Brooklyn,75,Yes,25-44,Male,Black
+Queens,114,No,25-44,Male,Black
+Queens,114,No,25-44,Male,Black
+Brooklyn,88,No,25-44,Female,Black
+Brooklyn,81,No,18-24,Male,Black
+Brooklyn,81,Yes,18-24,Male,Black
+Brooklyn,81,No,25-44,Male,Black
+Brooklyn,81,Yes,25-44,Male,Black
+The Bronx,41,Yes,25-44,Male,Black Hispanic
+Brooklyn,71,No,25-44,Male,Black
+Queens,107,No,25-44,Male,Black
+Queens,107,No,25-44,Male,Black
+Manhattan,5,No,18-24,Female,Black
+Manhattan,5,No,18-24,Male,Black
+Brooklyn,71,No,25-44,Male,Black
+Queens,103,No,18-24,Male,White Hispanic
+Queens,103,No,25-44,Male,White Hispanic
+Brooklyn,79,No,18-24,Male,White Hispanic
+The Bronx,44,No,25-44,Male,Black
+Brooklyn,75,No,25-44,Male,White Hispanic
+Brooklyn,67,No,25-44,Male,Black
+Staten Island,120,No,25-44,Male,Black
+Brooklyn,79,No,25-44,Male,Black
+Brooklyn,69,No,25-44,Male,Black
+Brooklyn,69,No,25-44,Male,Black
+The Bronx,43,Yes,25-44,Male,Black
+The Bronx,43,Yes,45-64,Female,White Hispanic
+Queens,105,No,25-44,Male,Black
+The Bronx,40,No,18-24,Male,Black
+Brooklyn,75,No,25-44,Male,Black
+The Bronx,49,Yes,18-24,Male,White Hispanic
+The Bronx,49,Yes,18-24,Male,White Hispanic
+The Bronx,46,No,18-24,Male,White Hispanic
+Manhattan,30,No,25-44,Male,Black
+The Bronx,44,No,25-44,Male,Black Hispanic
+The Bronx,45,No,25-44,Male,Black
+Brooklyn,71,No,18-24,Male,Black
+Brooklyn,71,No,25-44,Male,Black
+Brooklyn,90,No,25-44,Male,Black
+Manhattan,6,No,25-44,Male,Black
+Queens,114,No,18-24,Male,Black
+Queens,114,No,25-44,Male,Black
+Brooklyn,83,Yes,25-44,Male,Black
+Brooklyn,79,No,18-24,Male,Black
+Queens,103,No,25-44,Male,Black
+Brooklyn,73,No,18-24,Male,Black
+The Bronx,47,No,25-44,Male,White Hispanic
+Brooklyn,73,No,18-24,Male,Black
+Queens,105,No,25-44,Male,Unknown
+The Bronx,52,No,25-44,Male,Black
+Manhattan,32,Yes,25-44,Male,Black
+Manhattan,33,No,18-24,Female,Black
+The Bronx,44,No,25-44,Male,Black
+The Bronx,44,No,25-44,Male,Black Hispanic
+The Bronx,44,No,25-44,Male,White Hispanic
+Staten Island,120,No,18-24,Male,Black
+Queens,103,Yes,45-64,Male,Black
+Brooklyn,67,Yes,18-24,Male,Black
+The Bronx,48,No,25-44,Female,White Hispanic
+The Bronx,48,Yes,25-44,Female,White Hispanic
+The Bronx,48,No,25-44,Male,White Hispanic
+The Bronx,48,Yes,25-44,Male,White Hispanic
+Queens,103,No,25-44,Male,Black
+Brooklyn,73,No,25-44,Male,Black
+Manhattan,32,Yes,25-44,Male,Black
+Manhattan,34,No,25-44,Male,Unknown
+Manhattan,23,No,25-44,Male,Black
+Brooklyn,70,Yes,18-24,Male,Asian or Pacific Islander
+The Bronx,44,No,18-24,Male,White Hispanic
+The Bronx,44,No,18 And Under,Female,Black
+Manhattan,32,No,25-44,Male,Unknown
+Brooklyn,66,No,18-24,Male,Asian or Pacific Islander
+Brooklyn,66,No,18 And Under,Female,Asian or Pacific Islander
+The Bronx,46,Yes,25-44,Male,Black
+Queens,105,No,45-64,Male,Asian or Pacific Islander
+Brooklyn,69,No,18 And Under,Male,Black
+Queens,105,Yes,25-44,Male,Black
+Brooklyn,81,No,18 And Under,Male,Black
+The Bronx,48,Yes,18 And Under,Female,Black
+The Bronx,48,No,18 And Under,Male,Black
+Brooklyn,79,No,25-44,Male,Black
+Brooklyn,75,Yes,45-64,Male,Black
+Manhattan,32,No,25-44,Male,Black
+Manhattan,34,No,25-44,Male,Unknown
+The Bronx,40,No,25-44,Male,Black
+Brooklyn,73,No,18-24,Male,Black
+Brooklyn,81,No,25-44,Male,White Hispanic
+Queens,105,No,18-24,Male,Black
+Manhattan,32,No,18-24,Male,Black
+Manhattan,32,No,45-64,Female,White Hispanic
+Queens,113,No,25-44,Male,Black
+Queens,106,No,25-44,Male,White Hispanic
+Queens,106,Yes,25-44,Male,White Hispanic
+Queens,106,No,25-44,Male,White Hispanic
+Queens,106,Yes,25-44,Male,White Hispanic
+Manhattan,20,No,25-44,Male,Black Hispanic
+Brooklyn,84,No,18-24,Male,Black
+Brooklyn,84,No,18 And Under,Male,Black
+The Bronx,40,No,18-24,Male,Black
+Queens,103,No,25-44,Male,Black
+Brooklyn,75,No,25-44,Female,White Hispanic
+The Bronx,40,No,25-44,Male,White Hispanic
+Brooklyn,67,No,18-24,Male,Black
+Manhattan,23,No,18 And Under,Female,Black
+Brooklyn,73,No,18-24,Female,Black
+Brooklyn,73,No,18-24,Male,Black
+The Bronx,40,Yes,18-24,Male,Black
+Brooklyn,69,Yes,18-24,Male,Black
+Queens,114,No,25-44,Male,Black
+Queens,113,No,25-44,Male,Black
+Brooklyn,77,No,25-44,Male,Black
+The Bronx,46,No,25-44,Male,Black
+The Bronx,42,No,25-44,Male,Black
+Brooklyn,90,No,18-24,Male,Black Hispanic
+Brooklyn,90,Yes,18-24,Male,Black Hispanic
+Manhattan,30,No,18-24,Male,Black Hispanic
+Brooklyn,75,No,18-24,Male,White Hispanic
+Manhattan,23,No,18-24,Male,Black
+Brooklyn,67,No,25-44,Male,Black
+The Bronx,43,No,18-24,Male,Black
+The Bronx,43,No,18-24,Male,Black
+The Bronx,46,No,18-24,Male,Black
+Brooklyn,83,No,25-44,Male,Black
+Manhattan,30,Yes,25-44,Male,Black
+Queens,114,No,25-44,Male,Black
+The Bronx,45,No,Over 65,Female,White
+Brooklyn,73,Yes,25-44,Male,Black
+The Bronx,41,No,25-44,Male,Black
+Staten Island,121,No,18 And Under,Male,Black
+Manhattan,28,No,18-24,Male,Black
+Manhattan,28,No,25-44,Male,Black
+Manhattan,32,No,25-44,Male,Black
+The Bronx,44,Yes,18-24,Male,Black
+Queens,113,Yes,25-44,Male,Black
+Queens,113,Yes,25-44,Male,Black
+The Bronx,42,No,25-44,Male,White Hispanic
+Brooklyn,79,No,18-24,Male,Black
+Brooklyn,90,Yes,45-64,Male,Black
+Brooklyn,83,No,45-64,Male,White Hispanic
+Queens,113,No,18-24,Male,Black
+The Bronx,40,No,25-44,Female,Black
+The Bronx,40,No,25-44,Female,Black
+The Bronx,40,No,25-44,Female,Black
+Brooklyn,90,Yes,45-64,Female,White Hispanic
+Staten Island,120,Yes,25-44,Male,Black
+Brooklyn,69,Yes,25-44,Male,Black
+Brooklyn,71,No,18-24,Male,Black
+The Bronx,44,No,25-44,Male,White Hispanic
+The Bronx,40,No,18-24,Male,Black
+Brooklyn,73,No,18-24,Male,Black
+The Bronx,48,No,18-24,Male,Black
+Brooklyn,61,No,25-44,Male,Black
+Brooklyn,66,No,25-44,Male,White Hispanic
+Brooklyn,73,No,18-24,Male,Black
+Brooklyn,73,Yes,18-24,Male,Black
+The Bronx,41,No,25-44,Male,White Hispanic
+Brooklyn,75,No,25-44,Male,White Hispanic
+Brooklyn,77,No,45-64,Male,Black
+Brooklyn,84,Yes,25-44,Male,Black
+Brooklyn,81,Yes,25-44,Male,Black
+Brooklyn,73,No,25-44,Male,Black
+Brooklyn,73,No,18-24,Male,Black
+Brooklyn,73,Yes,18-24,Male,Black
+Brooklyn,90,No,25-44,Male,Black
+Queens,100,No,18-24,Male,Black
+The Bronx,43,No,25-44,Male,Black
+The Bronx,52,No,25-44,Male,White Hispanic
+Brooklyn,67,Yes,25-44,Male,Black
+The Bronx,42,No,25-44,Male,Black
+The Bronx,42,No,25-44,Male,White Hispanic
+The Bronx,42,Yes,25-44,Male,Black
+The Bronx,42,Yes,25-44,Male,White Hispanic
+The Bronx,42,No,18 And Under,Male,White Hispanic
+The Bronx,42,Yes,18 And Under,Male,White Hispanic
+The Bronx,47,No,18-24,Male,Black
+Brooklyn,71,No,18-24,Male,Black
+Brooklyn,71,No,45-64,Male,Black
+The Bronx,52,Yes,25-44,Male,Black
+The Bronx,52,Yes,25-44,Male,Black
+Brooklyn,73,No,25-44,Male,Black
+The Bronx,41,No,18-24,Male,White Hispanic
+The Bronx,41,No,18-24,Male,White Hispanic
+Brooklyn,70,No,25-44,Male,Black
+Brooklyn,77,No,18-24,Male,Black
+Brooklyn,67,No,25-44,Male,Black
+Queens,101,No,25-44,Male,Black
+Queens,101,No,18-24,Male,Black
+The Bronx,42,No,18-24,Male,Black
+The Bronx,42,Yes,18-24,Male,Black
+The Bronx,42,No,18-24,Male,Black
+The Bronx,42,Yes,18-24,Male,Black
+The Bronx,42,No,18-24,Male,Black
+The Bronx,42,Yes,18-24,Male,Black
+Brooklyn,71,No,18-24,Male,Black Hispanic
+The Bronx,40,No,18-24,Male,White Hispanic
+Brooklyn,67,No,25-44,Male,Black
+Brooklyn,67,No,25-44,Male,Black
+Manhattan,23,Yes,18 And Under,Male,Black
+The Bronx,52,Yes,25-44,Male,Black
+Brooklyn,71,No,18-24,Male,Black
+The Bronx,43,Yes,45-64,Male,Black Hispanic
+The Bronx,40,Yes,25-44,Male,Black
+Brooklyn,75,Yes,25-44,Male,Black
+Manhattan,32,No,25-44,Male,Black
+Brooklyn,79,No,25-44,Male,Black
+Brooklyn,79,No,25-44,Male,White Hispanic
+Brooklyn,79,No,25-44,Male,Black
+Brooklyn,79,No,25-44,Male,White Hispanic
+The Bronx,43,No,25-44,Male,White
+The Bronx,43,No,25-44,Male,White
+Brooklyn,79,Yes,25-44,Male,Black
+Brooklyn,69,No,18-24,Male,Black
+The Bronx,47,Yes,25-44,Male,Black
+The Bronx,52,No,18-24,Male,White Hispanic
+Brooklyn,81,No,25-44,Male,Black
+Brooklyn,67,No,25-44,Male,White Hispanic
+Manhattan,23,No,18-24,Male,Black
+Queens,102,No,18-24,Male,Black
+Queens,102,No,25-44,Male,Black
+Brooklyn,77,No,18-24,Male,Black
+The Bronx,52,No,25-44,Male,Unknown
+Brooklyn,73,No,45-64,Female,Black
+The Bronx,50,No,18-24,Male,Black Hispanic
+The Bronx,50,Yes,18-24,Male,Black Hispanic
+The Bronx,50,No,25-44,Male,Black
+The Bronx,50,Yes,25-44,Male,Black
+Brooklyn,70,No,18-24,Male,Black
+Brooklyn,70,No,45-64,Female,Black
+Brooklyn,75,No,18 And Under,Male,Black
+Brooklyn,63,Yes,25-44,Male,White Hispanic
+Brooklyn,70,No,25-44,Male,Black
+Queens,100,No,25-44,Male,Asian or Pacific Islander
+Brooklyn,68,No,25-44,Male,White
+Brooklyn,67,No,18-24,Male,Black
+Staten Island,120,No,45-64,Male,Black
+Staten Island,120,No,18 And Under,Male,Black
+Manhattan,25,No,25-44,Male,White Hispanic
+Manhattan,25,No,45-64,Female,White Hispanic
+Brooklyn,90,No,18-24,Male,Black
+Manhattan,7,No,18-24,Male,Black
+Manhattan,7,No,18-24,Male,Black
+Brooklyn,79,Yes,25-44,Male,Black
+Brooklyn,67,No,25-44,Male,Black Hispanic
+Manhattan,19,Yes,45-64,Male,White
+Manhattan,26,No,18-24,Male,Black
+Brooklyn,71,Yes,25-44,Male,Black
+Brooklyn,71,Yes,25-44,Male,Black
+Brooklyn,63,No,18-24,Male,Black
+Brooklyn,75,No,25-44,Male,White Hispanic
+Brooklyn,75,No,25-44,Male,White Hispanic
+Brooklyn,70,Yes,25-44,Male,Black
+Queens,103,No,25-44,Male,Black
+The Bronx,42,No,45-64,Male,White Hispanic
+The Bronx,42,Yes,25-44,Male,Black
+Brooklyn,83,No,45-64,Male,Black
+The Bronx,46,No,25-44,Male,Black
+Brooklyn,69,No,25-44,Male,Black
+Manhattan,26,No,18-24,Male,Black
+Brooklyn,79,No,18-24,Male,Black
+Brooklyn,73,No,25-44,Male,Black
+Queens,106,No,18-24,Male,Black
+Brooklyn,73,No,18-24,Male,Black
+Queens,114,Yes,25-44,Male,Black
+Queens,106,No,25-44,Male,Asian or Pacific Islander
+The Bronx,47,No,25-44,Male,Black
+The Bronx,44,No,45-64,Male,Black
+Queens,110,Yes,25-44,Male,White Hispanic
+Queens,113,No,25-44,Male,Black
+Brooklyn,81,No,25-44,Male,Black
+The Bronx,44,Yes,25-44,Female,Black
+Brooklyn,67,No,18-24,Male,Black
+The Bronx,40,No,18 And Under,Male,Black
+Brooklyn,70,No,25-44,Male,Black
+The Bronx,43,No,25-44,Male,White Hispanic
+Brooklyn,67,No,18-24,Male,Black
+Staten Island,123,No,25-44,Male,White Hispanic
+Brooklyn,63,No,18 And Under,Male,Black
+Brooklyn,73,Yes,45-64,Male,Black
+Brooklyn,73,Yes,18 And Under,Female,Black
+Brooklyn,73,Yes,18 And Under,Male,Black
+Queens,102,No,25-44,Female,American Indian or Alaskan Native
+Queens,102,No,25-44,Male,Black
+Queens,102,No,25-44,Male,White Hispanic
+Queens,105,Yes,18-24,Male,Black
+Brooklyn,73,No,18-24,Male,White Hispanic
+Brooklyn,79,Yes,18-24,Male,Black
+Brooklyn,77,No,18-24,Male,Black
+The Bronx,42,No,25-44,Male,Black
+The Bronx,40,No,18 And Under,Male,Black Hispanic
+The Bronx,40,No,18 And Under,Male,Black Hispanic
+Manhattan,30,No,18-24,Male,White Hispanic
+The Bronx,40,No,18-24,Male,White Hispanic
+Brooklyn,73,Yes,45-64,Male,Black
+Brooklyn,67,No,25-44,Male,White
+The Bronx,41,No,25-44,Male,Black
+The Bronx,41,No,25-44,Male,White Hispanic
+Brooklyn,73,No,25-44,Male,Black
+Queens,114,No,18-24,Male,White Hispanic
+Brooklyn,63,No,18-24,Male,Black
+Brooklyn,63,Yes,18-24,Male,Black
+Brooklyn,63,No,25-44,Male,Black
+Brooklyn,63,Yes,25-44,Male,Black
+Brooklyn,94,No,18-24,Male,Black
+The Bronx,46,No,18-24,Male,Black
+Manhattan,26,No,18-24,Male,Black
+Manhattan,26,No,18-24,Male,Black Hispanic
+The Bronx,41,No,18 And Under,Male,Black Hispanic
+The Bronx,42,No,18-24,Male,Black
+The Bronx,48,No,25-44,Male,Black Hispanic
+Brooklyn,70,No,18-24,Male,Black
+Queens,115,No,45-64,Male,Black Hispanic
+Brooklyn,69,No,18 And Under,Female,Black
+Brooklyn,69,No,18 And Under,Female,Black
+The Bronx,46,No,25-44,Male,White Hispanic
+Queens,114,No,25-44,Male,Black
+The Bronx,41,No,18-24,Male,Black
+The Bronx,43,No,45-64,Male,Black
+Brooklyn,75,No,18-24,Male,Black
+Brooklyn,67,No,25-44,Male,Black
+Brooklyn,67,No,25-44,Female,Black
+The Bronx,52,No,25-44,Female,Black
+Brooklyn,67,No,18-24,Male,Black
+Brooklyn,67,No,45-64,Male,Black Hispanic
+Manhattan,23,Yes,25-44,Male,Black
+Queens,107,No,45-64,Male,Black
+Brooklyn,75,No,25-44,Male,Black
+Brooklyn,70,No,25-44,Male,Black
+Brooklyn,71,Yes,25-44,Male,Black
+Brooklyn,67,No,25-44,Male,Black
+Brooklyn,77,No,25-44,Male,Black
+Brooklyn,83,No,25-44,Male,White Hispanic
+Staten Island,120,No,45-64,Male,Black
+Queens,101,Yes,18 And Under,Male,Black
+Queens,101,Yes,18 And Under,Male,Black
+Queens,105,No,25-44,Male,Black
+Manhattan,32,No,25-44,Male,Black
+The Bronx,47,No,25-44,Male,Black
+The Bronx,49,Yes,45-64,Male,White Hispanic
+The Bronx,46,No,18-24,Male,Black Hispanic
+The Bronx,48,Yes,25-44,Male,Black Hispanic
+The Bronx,48,Yes,25-44,Male,Black Hispanic
+Manhattan,25,No,18-24,Male,Black
+Queens,107,Yes,18-24,Male,White Hispanic
+Queens,107,Yes,18-24,Male,White Hispanic
+Queens,105,No,45-64,Male,Black
+The Bronx,40,No,25-44,Male,Black
+Queens,101,No,18-24,Male,Black
+Brooklyn,79,Yes,45-64,Male,Black
+The Bronx,45,No,25-44,Male,Black
+The Bronx,52,No,18-24,Female,Black
+Manhattan,32,No,18-24,Male,Black
+Queens,106,No,45-64,Female,Black
+Queens,106,Yes,45-64,Female,Black
+Queens,106,No,45-64,Male,Black
+Queens,106,Yes,45-64,Male,Black
+Queens,106,No,45-64,Female,Black
+Queens,106,Yes,45-64,Female,Black
+Queens,106,No,45-64,Male,Black
+Queens,106,Yes,45-64,Male,Black
+Brooklyn,69,Yes,25-44,Male,Black
+The Bronx,40,No,25-44,Male,Black
+Brooklyn,71,No,18-24,Male,Black
+Queens,114,No,25-44,Female,Black
+The Bronx,52,No,18 And Under,Male,Black
+Brooklyn,81,No,18 And Under,Male,Black
+Manhattan,24,No,18-24,Male,Black
+Manhattan,33,No,18-24,Male,White Hispanic
+The Bronx,48,No,18-24,Male,Black
+The Bronx,49,No,25-44,Male,Black
+The Bronx,40,No,25-44,Male,Black Hispanic
+Brooklyn,60,No,18-24,Male,Black Hispanic
+Manhattan,14,No,25-44,Male,Black
+Queens,111,No,18-24,Female,Black
+Queens,111,No,25-44,Male,Black
+Brooklyn,79,No,25-44,Male,Black
+Queens,101,No,25-44,Male,Black
+Manhattan,13,No,25-44,Male,Black
+Brooklyn,81,Yes,25-44,Male,Black
+Queens,105,Yes,Over 65,Male,Black
+Queens,106,Yes,18-24,Male,Black
+The Bronx,43,No,25-44,Male,Black
+The Bronx,40,No,25-44,Male,Asian or Pacific Islander
+The Bronx,48,No,18-24,Male,White Hispanic
+The Bronx,46,Yes,25-44,Male,Black
+The Bronx,40,Yes,25-44,Female,Black
+The Bronx,43,No,25-44,Male,Black
+The Bronx,43,No,18-24,Male,Black
+The Bronx,44,No,45-64,Male,Black
+Brooklyn,75,No,18 And Under,Male,Black
+Manhattan,34,No,25-44,Male,Black
+The Bronx,48,No,18-24,Male,White Hispanic
+Queens,101,Yes,18 And Under,Male,Black
+The Bronx,52,No,25-44,Female,White Hispanic
+The Bronx,52,No,25-44,Male,White Hispanic
+Queens,103,No,18-24,Male,Black
+The Bronx,43,Yes,25-44,Female,Unknown
+The Bronx,43,Yes,45-64,Female,Unknown
+The Bronx,48,Yes,25-44,Male,Black
+Queens,101,No,25-44,Male,White Hispanic
+Brooklyn,90,No,18-24,Male,Black
+Brooklyn,90,No,45-64,Male,Black
+Brooklyn,72,No,25-44,Male,White Hispanic
+The Bronx,47,No,18-24,Male,Black Hispanic
+The Bronx,47,Yes,18-24,Male,Black Hispanic
+The Bronx,47,No,18-24,Male,Black Hispanic
+The Bronx,47,Yes,18-24,Male,Black Hispanic
+The Bronx,47,No,45-64,Female,White Hispanic
+The Bronx,47,Yes,45-64,Female,White Hispanic
+The Bronx,47,No,45-64,Female,White Hispanic
+The Bronx,47,Yes,45-64,Female,White Hispanic
+The Bronx,47,No,45-64,Male,White Hispanic
+The Bronx,47,Yes,45-64,Male,White Hispanic
+The Bronx,47,No,45-64,Male,White Hispanic
+The Bronx,47,Yes,45-64,Male,White Hispanic
+The Bronx,47,No,18-24,Male,Black Hispanic
+The Bronx,47,Yes,18-24,Male,Black Hispanic
+The Bronx,47,No,45-64,Female,White Hispanic
+The Bronx,47,Yes,45-64,Female,White Hispanic
+The Bronx,47,No,45-64,Male,White Hispanic
+The Bronx,47,Yes,45-64,Male,White Hispanic
+Manhattan,24,No,18-24,Male,Black
+The Bronx,40,No,25-44,Male,Black
+Brooklyn,77,No,45-64,Male,Asian or Pacific Islander
+The Bronx,43,No,25-44,Male,Black Hispanic
+The Bronx,44,No,25-44,Male,Black Hispanic
+The Bronx,42,No,18-24,Female,Black
+Staten Island,123,No,18-24,Male,White Hispanic
+Queens,103,No,25-44,Male,White
+Brooklyn,70,No,18-24,Male,Black
+Brooklyn,70,No,25-44,Male,Black
+Brooklyn,73,No,25-44,Male,Black
+The Bronx,40,No,25-44,Male,Black
