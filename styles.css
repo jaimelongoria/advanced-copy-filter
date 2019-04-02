@@ -43,6 +43,13 @@ h1 {
     font-weight: 700;
 }
 
+.message {
+    font-family: 'Roboto', Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    color: red;
+}
+
 img {
     max-width: 100%;
 }
